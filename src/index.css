@@ -36,6 +36,7 @@ html{
 body{
   font-family: 'Poppins', sans-serif;
   background: var(--color-bg);
+  /* background: repeating-linear-gradient(90deg, var(--color-bg) 20px, #0e0e18 30px, var(--color-bg) 40px); */
   color: var(--color-white);
   line-height: 1.7rem;
   
@@ -56,6 +57,7 @@ h1{
 
 section{
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section > h2,
